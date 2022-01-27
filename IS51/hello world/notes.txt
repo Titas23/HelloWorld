@@ -1,0 +1,18 @@
+
+
+//List current directory
+ls -al
+
+//Create a new directory/folder
+mkdir <dir-name>
+
+//change directory/folder
+cd <dir-name>
+
+// print out working directory
+
+pwd
+
+// Hard delete a folder 
+
+rm - rf .git
